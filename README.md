@@ -20,3 +20,5 @@ I considered using a different Honest Abe Roofing logo in the footer, but avoide
 
 
 ![Screenshot](https://github.com/dominicklford-ux/honest-abe-test/blob/main/Screenshot%202026-02-10%20121056.png?raw=true)
+![Screenshot](https://github.com/dominicklford-ux/honest-abe-test/blob/main/Screenshot%202026-02-10%20121823.png?raw=true)
+![Screenshot](https://github.com/dominicklford-ux/honest-abe-test/blob/main/Screenshot%202026-02-10%20121844.png?raw=true)
