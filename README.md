@@ -19,4 +19,4 @@ The site was tested on multiple screen sizes, primarily mobile and desktop, usin
 I considered using a different Honest Abe Roofing logo in the footer, but avoided it due to possible copyright concerns.
 
 
-![Screenshot](https://user-images.githubusercontent.com/...](https://github.com/dominicklford-ux/honest-abe-test/blob/main/Screenshot%202026-02-10%20121056.png?raw=true)
+![Screenshot](https://github.com/dominicklford-ux/honest-abe-test/blob/main/Screenshot%202026-02-10%20121056.png?raw=true)
