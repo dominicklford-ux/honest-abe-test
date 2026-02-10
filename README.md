@@ -17,3 +17,6 @@ The placeholder image used on the site was compressed to improve page load perfo
 The site was tested on multiple screen sizes, primarily mobile and desktop, using browser inspect tools.
 
 I considered using a different Honest Abe Roofing logo in the footer, but avoided it due to possible copyright concerns.
+
+
+![Screenshot](https://user-images.githubusercontent.com/...](https://github.com/dominicklford-ux/honest-abe-test/blob/main/Screenshot%202026-02-10%20121056.png?raw=true)
